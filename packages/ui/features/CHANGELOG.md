@@ -1,5 +1,12 @@
 # @wallet-standard/ui-features
 
+## 1.0.2
+
+### Patch Changes
+
+- Updated dependencies [faa86f4]
+    - @wallet-standard/ui-registry@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes

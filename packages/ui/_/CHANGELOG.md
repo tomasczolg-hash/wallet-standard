@@ -1,5 +1,12 @@
 # @wallet-standard/ui
 
+## 1.0.2
+
+### Patch Changes
+
+- @wallet-standard/ui-compare@1.0.2
+- @wallet-standard/ui-features@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes

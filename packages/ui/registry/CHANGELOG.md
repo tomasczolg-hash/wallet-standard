@@ -1,5 +1,11 @@
 # @wallet-standard/ui-registry
 
+## 1.0.2
+
+### Patch Changes
+
+- faa86f4: Fix `UiWalletAccount` handle not maintaining referential equality for underlying `ReadonlyWalletAccount`
+
 ## 1.0.1
 
 ### Patch Changes
